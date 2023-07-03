@@ -1,0 +1,8 @@
+.analyticBox{
+ margin-top: 2%;
+display: flex;
+justify-content: space-between;
+}
+.comboBox{
+display: flex;
+}
